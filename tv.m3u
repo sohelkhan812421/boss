@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:24,BTV CTG HD
+#EXTVLCOPT:network-caching=1000
+http://103.230.105.252:1935/live/btv/manifest.m3u8
+#EXTINF:32,Somoy TV #EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:28,JAMUNA #EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:54,ATN NESW #EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/atnnews/tracks-v1a1/mono.ts.m3u8
+#EXTINF:54,INDEPENDENT TV#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/independenttv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:28,Ekattor  TV #EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:24,Salaam Tv #EXTVLCOPT:network-caching=1000
+https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
+#EXTINF:54,Wild Planet
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/sam-GBBB5000002PL.m3u8
+#EXTINF:36,Adventure Earth
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/sam-GBBC900015D3.m3u8
+#EXTINF:60,Love the Planet
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/sam-GBBD500001F5.m3u8
